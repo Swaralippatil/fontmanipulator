@@ -1,0 +1,16 @@
+.h {
+    width: 100%;
+    font-size: 23px;
+    margin: 0;
+    background-color: rgba(0, 0, 255, 0.527);
+}
+.n {
+    font-size: 15px;
+}
+.crf {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0, 0, 255, 0.527);
+}
